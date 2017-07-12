@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: Unifysell
+description: Zugriff auf Shop-APIs über eine Schnittstelle.
+
+author:
+  name: 'unifysell team'
+  github_username:  unifysell
+  email: info@unifysell.de
