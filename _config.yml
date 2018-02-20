@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
-title: Unifysell
-description: Zugriff auf APIs von Online-Marktplätzen über eine Schnittstelle.
+title: uifysell
+description: Die einheitliche Schnittstelle zu eCommerce APIs
+plugins:
+  - jekyll-redirect-from
+redirect_to:
+  - https://unifysell.de
