@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://unifysell.de"
+redirect_to: "https://unifysell.de?ref=gh"
 ---
