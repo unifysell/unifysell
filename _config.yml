@@ -4,4 +4,4 @@ description: Die einheitliche Schnittstelle zu eCommerce APIs
 plugins:
   - jekyll-redirect-from
 redirect_to:
-  - https://unifysell.de
+  - https://unifysell.de?ref=gh
